@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://omnify.finance"><img align="center" alt="Omnify" src="https://raw.githubusercontent.com/OmniKobra/Omnify/refs/heads/main/assets/logo3.png" width="100"></a>
   <h1 align="center"><a href="https://omnify.finance">Omnify</a><br>The self-custody crypto app<br>
-  <a href="https://omnify.gitbook.io/omnify-docs" rel="dofollow"><strong>Explore the docs</strong></a>
+  <a href="http://docs.omnify.finance" rel="dofollow"><strong>Explore the docs</strong></a>
     <br/>
     <a href="https://app.omnify.finance">App</a>
     ·
@@ -94,8 +94,11 @@ Start auctioning or bidding your crypto tokens at <a href="https://escrow.omnify
 - Flutter (UI/UX)
 - Ankr (RPC endpoints)
 - WalletConnect 
-- GoldRush API
+- Dune API
 - Firebase (hosting)
+- Gitbook (Documentation)
+- LayerZero
+- Chainlink (Keepers)
 
 # License
 
